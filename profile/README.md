@@ -4,6 +4,8 @@
   <p>An AI organization built from the ground up</p>
   <p>
     <a href="https://huggingface.co/MindIndigo">HuggingFace</a>
+    <a href="https://github.com/orgs/mindindigo/discussions">Discussions</a>
+    <a href="https://mindindigo.github.io/">Website</a>
   </p>
 </div>
 
@@ -27,4 +29,4 @@ Most of our code and models will be posted on [HuggingFace](https://huggingface.
 
 ## Contact
 
-Questions or interested in collaborating? Reach out at <a class="btn" href="https://github.com/orgs/mindindigo/discussions">MindIndigo Discussions</a>.
+Questions or interested in collaborating? Reach out at <a href="https://github.com/orgs/mindindigo/discussions">MindIndigo Discussions</a>.
