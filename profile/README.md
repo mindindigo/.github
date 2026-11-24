@@ -22,9 +22,9 @@ MindIndigo is an independent AI organization. We design, train, and test our own
 
 No models have been released yet. Our first models are still in training, and each one will be listed here when it is ready.
 
-| Model | Description | Link |
-| ----- | ----------- | ---- |
-| *Coming soon* | | |
+| Model | Link |
+| ----- | ----------- |
+| Indi1 | https://huggingface.co/MindIndigo/Indi1 |
 
 ## Where to find our work
 
