@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="logo.webp" width="200px" alt="MindIndigo logo">
+  <img src="logo.webp"
+     width="200px"
+     alt="MindIndigo logo"
+     style="background: #111827; padding: 16px; border-radius: 16px;">
   <h1>MindIndigo</h1>
   <p>An AI organization built from the ground up</p>
   <p>
